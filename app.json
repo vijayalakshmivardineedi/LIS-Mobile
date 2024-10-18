@@ -1,0 +1,21 @@
+
+{
+  "expo": {
+    "name": "l",
+    "slug": "l",
+    "version": "1.0.0",
+    "splash": {
+      "image": "./src/assets/User/images/taxi-driver.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+     },
+    "extra": {
+      "eas": {
+        "projectId": "d7a4f9ab-f022-4d74-9c05-3dfd7df37b80"
+      }
+    },
+    "android": {
+      "package": "com.jhansidevi.l"
+    }
+  }
+}
